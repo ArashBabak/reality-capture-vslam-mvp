@@ -11,6 +11,17 @@ This project implements an advanced workflow for converting raw 360-degree video
 *Note: Due to proprietary and company confidentiality policies (Company 333), core proprietary scripts, internal configuration files, and production deployment parameters are omitted from this public repository.*
 
 ---
+### Interactive 3D Pipeline Demo
+
+<p align="center">
+
+
+Uploading v1.0-demo.mp4…
+
+  
+</p>
+
+---
 
 ## My Role
 
@@ -64,6 +75,9 @@ Using deep learning frameworks (**PyTorch** and **Depth-Anything-V2**) alongside
 The final output assets and trajectory coordinates are loaded into a dynamic **Three.js** web viewport, allowing users to navigate through the 3D space interactively[cite: 21].
 
 ---
+
+
+
 
 ## License & Confidentiality
 This repository serves as a portfolio/public demonstration of architecture concepts. Core enterprise implementations and proprietary modules developed for **Engineering Office 333** remain confidential.
