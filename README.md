@@ -16,7 +16,7 @@ This project implements an advanced workflow for converting raw 360-degree video
 <p align="center">
 
 
-Uploading v1.0-demo.mp4…
+
 
   
 </p>
